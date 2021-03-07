@@ -1,0 +1,8 @@
+D:\CoreServices\CoreServices.Infrastructure\bin\Debug\netcoreapp3.1\CoreServices.Infrastructure.deps.json
+D:\CoreServices\CoreServices.Infrastructure\bin\Debug\netcoreapp3.1\CoreServices.Infrastructure.dll
+D:\CoreServices\CoreServices.Infrastructure\bin\Debug\netcoreapp3.1\CoreServices.Infrastructure.pdb
+D:\CoreServices\CoreServices.Infrastructure\obj\Debug\netcoreapp3.1\CoreServices.Infrastructure.csprojAssemblyReference.cache
+D:\CoreServices\CoreServices.Infrastructure\obj\Debug\netcoreapp3.1\CoreServices.Infrastructure.AssemblyInfoInputs.cache
+D:\CoreServices\CoreServices.Infrastructure\obj\Debug\netcoreapp3.1\CoreServices.Infrastructure.AssemblyInfo.cs
+D:\CoreServices\CoreServices.Infrastructure\obj\Debug\netcoreapp3.1\CoreServices.Infrastructure.dll
+D:\CoreServices\CoreServices.Infrastructure\obj\Debug\netcoreapp3.1\CoreServices.Infrastructure.pdb

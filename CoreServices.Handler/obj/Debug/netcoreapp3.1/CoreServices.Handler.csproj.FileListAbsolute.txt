@@ -1,0 +1,11 @@
+D:\CoreServices\CoreServices.Handler\bin\Debug\netcoreapp3.1\CoreServices.Handler.deps.json
+D:\CoreServices\CoreServices.Handler\bin\Debug\netcoreapp3.1\CoreServices.Handler.dll
+D:\CoreServices\CoreServices.Handler\bin\Debug\netcoreapp3.1\CoreServices.Handler.pdb
+D:\CoreServices\CoreServices.Handler\obj\Debug\netcoreapp3.1\CoreServices.Handler.csprojAssemblyReference.cache
+D:\CoreServices\CoreServices.Handler\obj\Debug\netcoreapp3.1\CoreServices.Handler.AssemblyInfoInputs.cache
+D:\CoreServices\CoreServices.Handler\obj\Debug\netcoreapp3.1\CoreServices.Handler.AssemblyInfo.cs
+D:\CoreServices\CoreServices.Handler\obj\Debug\netcoreapp3.1\CoreServices.Handler.dll
+D:\CoreServices\CoreServices.Handler\obj\Debug\netcoreapp3.1\CoreServices.Handler.pdb
+D:\CoreServices\CoreServices.Handler\bin\Debug\netcoreapp3.1\CoreServices.Infrastructure.dll
+D:\CoreServices\CoreServices.Handler\bin\Debug\netcoreapp3.1\CoreServices.Infrastructure.pdb
+D:\CoreServices\CoreServices.Handler\obj\Debug\netcoreapp3.1\CoreServices.Handler.csproj.CopyComplete

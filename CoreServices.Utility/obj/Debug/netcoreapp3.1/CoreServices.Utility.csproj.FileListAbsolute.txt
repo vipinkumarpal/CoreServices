@@ -1,0 +1,8 @@
+D:\CoreServices\CoreServices.Utility\bin\Debug\netcoreapp3.1\CoreServices.Utility.deps.json
+D:\CoreServices\CoreServices.Utility\bin\Debug\netcoreapp3.1\CoreServices.Utility.dll
+D:\CoreServices\CoreServices.Utility\obj\Debug\netcoreapp3.1\CoreServices.Utility.csprojAssemblyReference.cache
+D:\CoreServices\CoreServices.Utility\obj\Debug\netcoreapp3.1\CoreServices.Utility.AssemblyInfoInputs.cache
+D:\CoreServices\CoreServices.Utility\obj\Debug\netcoreapp3.1\CoreServices.Utility.AssemblyInfo.cs
+D:\CoreServices\CoreServices.Utility\bin\Debug\netcoreapp3.1\CoreServices.Utility.pdb
+D:\CoreServices\CoreServices.Utility\obj\Debug\netcoreapp3.1\CoreServices.Utility.dll
+D:\CoreServices\CoreServices.Utility\obj\Debug\netcoreapp3.1\CoreServices.Utility.pdb
